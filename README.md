@@ -1,4 +1,7 @@
 # github-aleo
+
+Start
+
 curl --proto '=https' --tlsv1.3 -sSf https://sh.rustup.rs | sh
 
 source $HOME/.cargo/env
