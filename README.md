@@ -10,6 +10,8 @@ rustup install stable
 
 rustup default stable
 
+setup test 1.4.3
+
 git clone https://github.com/AleoHQ/leo
 cd leo
 
