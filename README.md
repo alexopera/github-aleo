@@ -15,6 +15,17 @@ setup test 1.4.3
 git clone https://github.com/AleoHQ/leo
 cd leo
 
+source $HOME/.cargo/env
+
+rustup install stable
+
+rustup default stable
+
+setup test 1.4.3.3
+
+git clone https://github.com/AleoHQ/leo
+cd leo
+
 apt install clang gcc libssl-dev pkg-config
 
 cargo install --path .
