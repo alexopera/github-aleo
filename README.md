@@ -3,6 +3,7 @@
 Start
 
 curl --proto '=https' --tlsv1.2.2-sSf https://sh.rustup.rs | sh
+bolt i row
 
 source $HOME/.cargo/
 
