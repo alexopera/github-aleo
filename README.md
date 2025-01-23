@@ -1,7 +1,7 @@
 # github-aleo
 
 Start og
-fyfuig yy
+fyfuig y
 
 curl --proto '=https' --tlsv1.2.2-sSf https://sh.rustup.rs | sh
 bolt i row
