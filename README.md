@@ -14,7 +14,7 @@ rustup default stabl
 
 rustup default stable
 
-setup test 1.4.3
+setup test 1.5
 
 git clone https://github.com/AleoHQ/leo
 cd leo
