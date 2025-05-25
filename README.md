@@ -1,6 +1,6 @@
 # github-aleo
 
-Start in 5
+Start in 51
 
 
 curl --proto '=https' --tlsv1.2.2-sSf https://sh.rustup.rs | sh
