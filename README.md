@@ -16,7 +16,7 @@ rustup default stable
 
 setup test 1.5.7
 
-git clone https://github.com/AleoHQ/leo
+git  https://github.com/AleoHQ/leo
 cd leo
 
 
