@@ -1,10 +1,10 @@
 # github-aleo
 
-Start in 51
+Start in 
 
 
 curl --proto '=https' --tlsv1.2.2-sSf https://sh.rustup.rs | sh
-bolt i row.
+bolt i row.51
 
 source $HOME/.cargo/
 
